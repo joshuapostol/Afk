@@ -1,0 +1,47 @@
+[
+    {
+        "name": "XSRF-TOKEN",
+        "value": "eyJpdiI6Iml0b09uSnIyVUs3YUtsOUNPUll5TGc9PSIsInZhbHVlIjoiQk1ZSUkvak5neENSUXlPLzA2TzRIYlRmWXJXNDlWRlIyMzBrby8rSkpTaTVGRVVoZytmaXNyUWFyblBELzlFNjFvNjdzaHIwTG8xTGE5SE0zOVpkSlpkU1dxbWd4dXVEREtSZmM1aVhMbHFSRGRwU1B1dmwxZEo3U2ljcXVFNHYiLCJtYWMiOiIxMWVjOTgwNjhhNjAzN2ExY2Y4M2FjNDZlNjYwOTA4OGRmOTM0ZGRjMjllOGM5MWEzOWVjNzI5OGYzMTNiY2ZjIiwidGFnIjoiIn0%3D",
+        "domain": "panel.sillydev.co.uk",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": false,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1750208772,
+        "storeId": null
+    },
+    {
+        "name": "remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d",
+        "value": "eyJpdiI6IjE4RTNGYUIzamdza1pMWFd2UmZlNnc9PSIsInZhbHVlIjoiRmV6YU1OOGxXWkZGTmRnQlhXTnNmSldnUXdmQUl0Mlh5T3FVN1UyWmRJNTBRRzVOZDRJMUNPK0ZNUVpLUHpWcFV0b2xVZm5OVXNWY2ZKNUFidDl4Tmd0YWRmNjZmS3JmbkpoTGdvVWhTVzRTc0cyQW82NnU4Yk5UTFh0YmYzSlJjZzdqVWsyS2JSZytVTG16Ym1oTGFWOE5pTTFjaGFJNmN4UmRVaWxJREthYkZ4UXgvSTdjb21pTng1SzBzQnZkaWVVZU9NdGRMcGNvZFgrUENxcUc0UFowMEM3Z2FObllYeXNoS0I5VUUyaz0iLCJtYWMiOiI4OGExYmQyNTI0YjQwMDAwYjM0OTcyMDMxNWFhNmNhNjA0YjUwNWQwMjZlMWExNmRkYTJkNThhNGUwNWFmMTYxIiwidGFnIjoiIn0%3D",
+        "domain": "panel.sillydev.co.uk",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1784549440,
+        "storeId": null
+    },
+    {
+        "name": "silly_development_session",
+        "value": "eyJpdiI6IjU0Y1ZOelpZR1QzY3dtTVZxMG1FS2c9PSIsInZhbHVlIjoib2RWWFR5ZW0zY3I2SEluUVZ3RU85RDI0SXZpb2gxOWNsNE1jZVlhMEVHV21RQkd0N3N3MjJaa3JwQTVDUFF3ZzJuWGpubGllS05icU15VVdGM2Qwbm9qaGM3QXpWTnZrVkxxVU91UUZzalZxVW45MlFMRzlDZWZyL2ZOUWxvZ2ciLCJtYWMiOiI4NDFjNWRiN2Y5NWQ1MzMyMWMxZDM3OGRmZWFiZjFlYTM2MTAwZDA1NmQ3OTY4ODBhNmUzMmE4YTFlZjYyMmMwIiwidGFnIjoiIn0%3D",
+        "domain": "panel.sillydev.co.uk",
+        "hostOnly": true,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1750208772,
+        "storeId": null
+    }
+]
